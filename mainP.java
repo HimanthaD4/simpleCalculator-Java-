@@ -15,7 +15,7 @@ int n1 =  sc.nextInt();
 System.out.println("enter number 02 :");
 int n2 =  sc.nextInt();
 
-
+//this comment is only for test1
 
 }
 }
