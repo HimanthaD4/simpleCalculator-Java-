@@ -18,6 +18,24 @@ System.out.println("answer is : "+mul);
 
 }
 
+public void sub(int n1, int n2){
+    int num1 =n1;
+    int num2 =n2;
+int mul = num1-num2;
+System.out.println("answer is : "+mul);
+
+}
+
+
+public void dev(int n1, int n2){
+    int num1 =n1;
+    int num2 =n2;
+int mul = num1/num2;
+System.out.println("answer is : "+mul);
+
+}
+
+
 
 
 
